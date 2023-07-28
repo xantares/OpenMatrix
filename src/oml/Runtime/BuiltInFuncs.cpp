@@ -29,6 +29,7 @@
 
 #include <algorithm>
 #include <cassert>
+#include <climits>
 #include <iomanip>
 #include <iostream>
 #include <limits>
